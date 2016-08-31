@@ -1,8 +1,8 @@
 # Site settings
 title:       ARCH 433 | Intro to Digital Fabrication
-email:       bbalogh@iit.edu  
-author:      Brett Ian Balogh
-description: "ARCH433 Blog"
+email:       storres1@hawk.iit.edu  
+author:      Sara Torres
+description: "Sara's ARCH433 Blog"
 baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
